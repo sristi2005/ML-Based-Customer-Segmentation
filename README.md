@@ -132,15 +132,5 @@ Businesses can use this model to:
 
 ---
 
-## 🔮 Future Improvements
-
-* Use real-world datasets (e.g., Mall Customers Dataset)
-* Add cluster labeling (e.g., Premium, Budget, Regular)
-* Deploy on cloud (Streamlit Cloud / AWS)
-* Add more features (Gender, Location, Purchase History)
-
-## ⭐ If you like this project
-
-Give it a star ⭐ and feel free to contribute!
 
 
